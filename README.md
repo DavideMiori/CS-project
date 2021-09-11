@@ -1,5 +1,7 @@
 # Computer Science project
 
+These are the questions solved in the jupyter file.
+
 1. For each university, extract from the times dataset the most recent and the least recent data, obtaining two separate dataframes
 2. For each university, compute the improvement in income between the least recent and the most recent data points
 3. Find the university with the largest increase computed in the previous point
